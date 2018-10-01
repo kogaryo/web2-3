@@ -2,9 +2,6 @@
 body{
   background-color: #fbf9cc
 }
-tytle{
-  text-align: center;
-}
 h1{
   font-size: 1.75em;
   color: #3399cc;
@@ -23,6 +20,7 @@ p{
   background-color: #3399cc
   color: #333333cc;
   line-height: 1.75em;
+  text-align: center;
 }
 li{
   font-size: 0.8em;
